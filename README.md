@@ -78,4 +78,4 @@
 ## 🙏 Credits
 
 - Inspired by [BimaKW](https://github.com/bimakw)
-- README structure adapted from various open-source GitHub profiles
+
