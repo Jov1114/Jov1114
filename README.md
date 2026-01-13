@@ -1,38 +1,81 @@
-## Hi 👋 I'm Nathaniel Jovian
+<h1 align="center">
+  Hi 👋 I'm Nathaniel Jovian
+</h1>
 
-💻 Software Developer  
-🚀 ASP.NET Core | JavaScript | Nuxt | Docker  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00DC82&center=true&vCenter=true&width=600&lines=Software+Developer;ASP.NET+Core+%7C+Nuxt+3+%7C+Docker;Building+Clean+and+Scalable+Apps" />
+</p>
 
-### 👨‍💻 About Me
+<p align="center">
+  💻 Software Developer • 🚀 Continuous Learner • 🤝 Team Player
+</p>
 
-- 💼 Software Developer At Indomarco Prismatama SD2
-- 🔥 Strong interest in all IT fields, especially Software Development  
-- 🧠 Love learning new technologies & best practices  
-- 🤝 Open to collaboration & continuous improvement
+---
+
+## 👨‍💻 About Me
+
+- 💼 Software Developer at **Indomarco Prismatama SD2**
+- 🔥 Strong interest in all IT fields, especially **Software Development**
+- 🧠 Passionate about clean code, scalable architecture & best practices
+- 🤝 Open to collaboration and continuous improvement
+
+---
 
 ## 🔧 Tech Stack
 
 ### 🧠 Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" />
+</p>
 
 ### 🎨 Frontend
-![Nuxt 3](https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+<p>
+  <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+</p>
 
 ### 🗄 Database
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql" />
+</p>
 
 ### ⚙ DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx" />
+</p>
 
+---
 
+## 🚀 What I Do Best
 
+- ✔ Develop REST APIs with secure authentication (JWT)
+- ✔ Build modern web apps with Nuxt 3
+- ✔ Design maintainable backend architectures
+- ✔ Dockerize apps for development & deployment
 
-## 📫 Contact
-- Email: nathanieljovianprayogo@email.com
-- LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/)
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joy114&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joy114&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: **nathanieljovianprayogo@email.com**
+- 💼 LinkedIn: https://linkedin.com/in/username
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
+</p>
