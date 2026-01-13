@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 👋 I'm Nathaniel Jovian
 
-<!--
-**Jov1114/Jov1114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+🚀 ASP.NET Core | JavaScript | Nuxt | Docker  
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Software Developer At Indomarco Prismatama SD2
+- 🔥 Strong interest in all IT fields, especially Software Development  
+- 🧠 Love learning new technologies & best practices  
+- 🤝 Open to collaboration & continuous improvement
+
+### 🛠 Tech Stack
+
+#### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+#### Frameworks
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet)
+![Nuxt](https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs)
+
+#### Database & Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
