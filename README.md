@@ -76,8 +76,9 @@
 </p>
 
 ## 🙏 Credits
-
-- Inspired by [BimaKW](https://github.com/bimakw)
+<p align="center">
+  - Inspired by [BimaKW](https://github.com/bimakw)
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jov1114&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
