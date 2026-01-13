@@ -28,3 +28,11 @@
 ### ⚙ DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+
+
+
+
+## 📫 Contact
+- Email: nathanieljovianprayogo@email.com
+- LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/)
+
