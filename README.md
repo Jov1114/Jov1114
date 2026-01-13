@@ -68,9 +68,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: nathanieljovianprayogo@email.com  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/  
-- 🌐 **Website**: https://nathanieljovian.vercel.app/
+- 📧 **Email**: <a href="mailto:nathanieljovianprayogo@email.com">nathanieljovianprayogo@email.com</a>  
+- 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/">LinkedIn Profile</a>  
+- 🌐 **Website**: <a href="https://nathanieljovian.vercel.app/">nathanieljovian.vercel.app</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
