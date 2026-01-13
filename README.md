@@ -71,7 +71,7 @@
 
 - 📧 **Email**: <a href="mailto:nathanieljovianprayogo@email.com">nathanieljovianprayogo@email.com</a>  
 - 💼 **LinkedIn**: <a href="https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/">LinkedIn Profile</a>  
-- 🌐 **Website**: <a href="https://nathanieljovian.vercel.app/">nathanieljovian.vercel.app</a>
+- 🌐 **Website**: <a href="https://nathanieljovian.vercel.app/">Nathaniel Jovian</a>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
