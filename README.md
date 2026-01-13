@@ -72,7 +72,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: **nathanieljovianprayogo@email.com**
-- 💼 LinkedIn: https://linkedin.com/in/username
+- 💼 LinkedIn: [https://linkedin.com/in/username](https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
