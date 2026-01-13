@@ -75,9 +75,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
 </p>
 
-## 🙏 Credits
 <p align="center">
-  - Inspired by [BimaKW](https://github.com/bimakw)
+  Inspired by <a href="https://github.com/bimakw">BimaKW</a>
 </p>
 
 <p align="center">
