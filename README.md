@@ -74,3 +74,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00DC82&height=120&section=footer"/>
 </p>
+
+## 🙏 Credits
+
+- Inspired by [BimaKW](https://github.com/bimakw)
+- README structure adapted from various open-source GitHub profiles
