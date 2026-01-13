@@ -57,14 +57,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jov1114&show_icons=true&theme=tokyonight" />
-</p>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jov1114&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jov1114&theme=gruvbox&no-frame=true" />
 </p>
+
 
 ---
 
