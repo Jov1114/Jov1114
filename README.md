@@ -57,11 +57,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jov1114&theme=gruvbox&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jov1114&show_icons=true&theme=gruvbox" />
 </p>
+
 
 
 ---
