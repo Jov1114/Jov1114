@@ -52,9 +52,7 @@
 
 ## 🚀 What I Do Best
 
-- ✔ Develop REST APIs with secure authentication (JWT)
 - ✔ Build modern web apps with Nuxt 3
-- ✔ Design maintainable backend architectures
 - ✔ Dockerize apps for development & deployment
 
 ---
