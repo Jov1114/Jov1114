@@ -17,7 +17,9 @@ I work across the full stack with a focus on clean architecture and containeriza
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jov1114&show_icons=true&theme=transparent&hide_border=true&title_color=00DC82&icon_color=00DC82&text_color=777" alt="GitHub Stats" width="400" />
 </p>
+
 ---
+
 ### 📫 Let's Connect
 *   **Work:** [nathanieljovianprayogo@email.com](mailto:nathanieljovianprayogo@email.com)
 *   **LinkedIn:** [Nathaniel Jovian Prayogo](https://www.linkedin.com/in/nathaniel-jovian-prayogo-340311264/)
