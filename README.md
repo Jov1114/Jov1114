@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 💼 Software Developer at **Indomarco Prismatama SD2**
+- 💼 Software Developer at **Indomarco Prismatama**
 - 🔥 Strong interest in all IT fields, especially **Software Development**
 - 🧠 Passionate about clean code, scalable architecture & best practices
 - 🤝 Open to collaboration and continuous improvement
